@@ -9,6 +9,7 @@ A simple Python-based task manager for creating, editing, and completing tasks.
 2. Run: `python run.py`
 
 ## Screenshot
+<img width="898" height="203" alt="image" src="https://github.com/user-attachments/assets/d020affc-3e67-4dca-97cf-6f422e734187" />
 
 
 # Task-Manager-CLI
